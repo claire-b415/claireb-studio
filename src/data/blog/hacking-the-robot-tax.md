@@ -1,5 +1,5 @@
 ---
-title: Hacking the Robot Tax: How to Surface in 2026 Without Pandering
+title: "Hacking the Robot Tax: How to Surface in 2026 Without Pandering"
 pubDate: 2026-01-04
 author: "Claire B."
 tags:
