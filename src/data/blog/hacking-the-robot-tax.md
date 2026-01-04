@@ -11,7 +11,7 @@ tags:
 - Content Saturation
 - Thought Leadership
 - San Francisco 415
-imgUrl: "src/assets/_doggie_diner_head_claire_b_1x1.jpeg"
+imgUrl: 'src/assets/_doggie_diner_head_claire_b_1x1.jpeg'
 description: "The Robot Tax is the pressure to sand down your thinking so machines will recognize it. This piece explains how to move proof out of the prose and build structural gravity instead."
 ---
 
