@@ -1,5 +1,5 @@
 ---title: "Hacking the Robot Tax: How to Surface in 2026 Without Pandering"
-pubDate: 2026-01-04
+pubDate: "2026-01-04"
 author: "Claire B"
 tags:
 - Robot Tax
@@ -7,7 +7,7 @@ tags:
 - Writing
 - Schema
 - San Francisco 415
-imgUrl: "https://clairebstudio.netlify.app/_doggie_diner_head_claire_b_1x1.jpeg"
+imgUrl: "src/assests/_doggie_diner_head_claire_b_1x1.jpeg"
 description: "The Robot Tax is the pressure to sand down your thinking so machines will recognize it. This piece explains how to move proof out of the prose and build structural gravity instead."
 ---
 
