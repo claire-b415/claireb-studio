@@ -16,9 +16,10 @@ imgUrl: '../../assets/_doggie_diner_head_claire_b_1x1.jpeg'
 description: "The Robot Tax is the pressure to sand down your thinking so machines will recognize it. This piece explains how to move proof out of the prose and build structural gravity instead."
 ---
 
+#Hacking the Robot Tax: How to Surface in 2026 Without Pandering
 *Why the Human Glitch is the Only SEO That Survives the AI Shift*
 
-**By Claire B**
+**By Claire B.**
 
 <figure>
 <img src="https://clairebstudio.netlify.app/_doggie_diner_head_claire_b_1x1.jpeg" alt="The Doggie Diner Head on Sloat Boulevard, San Francisco 415, photographed on a sunny day with blue skies, rooftops, and a view down toward the Pacific Ocean." />
