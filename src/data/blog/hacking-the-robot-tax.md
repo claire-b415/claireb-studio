@@ -180,7 +180,7 @@ In 2026, we build for the long haul. And the first step to that building? It’s
 
 We’ve covered the floor. You just read the engine. The final piece of this trifecta is the relief for every tired writer: Showing Up Without Performing. It drops later next week. If you’re rebuilding your architecture and thought, “wtf, do I need a signal check?” while reading this, you can DM me.
 
-Straight up, no joke.
+Straight up.
 
 Happy New Year 2026
 
