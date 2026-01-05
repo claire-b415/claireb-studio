@@ -26,4 +26,18 @@ const { Content } = await render(blogpost);
   headings={blogpost.rendered?.metadata?.headings}
 >
   <Content />
+<header style="margin: 0 0 1.25rem 0;"><h1 style="margin: 0 0 .5rem 0; line-height: 1.1;">
+{blogpost.data.title}
+</h1>
+
+{blogpost.data.description && (
+<p style="margin: 0 0 .75rem 0; font-style: italic;">
+{blogpost.data.description}
+</p>
+)}
+
+<p style="margin: 0; opacity: .7;">
+{blogpost.data.pubDate} · {blogpost.data.author}
+</p>
+</header>
 </Layout>
