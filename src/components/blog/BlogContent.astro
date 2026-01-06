@@ -2,21 +2,27 @@
 interface Props {
   pubDate: Date;
   author: string;
+  title: string;
 }
 
-const { pubDate, author } = Astro.props;
+const { pubDate, author, title } = Astro.props;
 ---
 
-<article class='prose-slate w-sm md:w-prose md:prose poppins'>
-  <a href='/blog/' title='Back to blog'>&larr; Back to blog</a>
-  <p class='text-slate text-sm md:text-base'>
+<article class="prose-slate w-sm md:w-prose md:prose poppins">
+  <a href="/blog/" title="Back to blog">&larr; Back to blog</a>
+
+  <h1 class="mt-0">{title}</h1>
+
+  <p class="text-slate text-sm md:text-base">
     Published on {pubDate.toLocaleDateString('en-US', {
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric'
-})} by {author}
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric'
+    })} by {author}
   </p>
+
   <slot />
-  <p class='text-slate'>Written by {author}</p>
-  <a href='/blog/' title='Back to blog'>&larr; Back to blog</a>
+
+  <p class="text-slate">Written by {author}</p>
+  <a href="/blog/" title="Back to blog">&larr; Back to blog</a>
 </article>
