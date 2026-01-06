@@ -14,14 +14,17 @@ interface Props {
   title: string;
 }
 
-const { author, pubDate, headings, description, title } = Astro.props;
+const { pubDate, author, title } = Astro.props;
 ---
 
 <Layout title={title} description={description} ogImage={ogImage}>
   <main class='p-6 lg:grid lg:grid-cols-3 flex justify-center'>
     <BlogSideBar headings={headings as any[]} />
-    <BlogContent {pubDate} {author}>
+    <BlogContent {pubDate} {author} title={title}>
       <slot />
+    </BlogContent>
+  </main>
+</Layout>
     </BlogContent>
   </main>
   <section class='p-6'>
