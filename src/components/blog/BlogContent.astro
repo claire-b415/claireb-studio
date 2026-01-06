@@ -10,7 +10,11 @@ const { pubDate, author } = Astro.props;
 <article class='prose-slate w-sm md:w-prose md:prose poppins'>
   <a href='/blog/' title='Back to blog'>&larr; Back to blog</a>
   <p class='text-slate text-sm md:text-base'>
-    Published on {pubDate} by {author}
+    Published on {pubDate.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric'
+})} by {author}
   </p>
   <slot />
   <p class='text-slate'>Written by {author}</p>
