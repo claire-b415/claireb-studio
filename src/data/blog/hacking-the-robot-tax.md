@@ -18,7 +18,6 @@ description: "The Robot Tax is the pressure to sand down your thinking so machin
 
 *Why the Human Glitch is the Only SEO That Survives the AI Shift*
 
-**By Claire B.**
 
 <figure>
 <img src="https://clairebstudio.netlify.app/_doggie_diner_head_claire_b_1x1.jpeg" alt="The Doggie Diner Head on Sloat Boulevard, San Francisco 415, photographed on a sunny day with blue skies, rooftops, and a view down toward the Pacific Ocean." />
