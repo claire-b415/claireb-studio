@@ -16,7 +16,6 @@ imgUrl: '../../assets/_doggie_diner_head_claire_b_1x1.jpeg'
 description: "The Robot Tax is the pressure to sand down your thinking so machines will recognize it. This piece explains how to move proof out of the prose and build structural gravity instead."
 ---
 
-#Hacking the Robot Tax: How to Surface in 2026 Without Pandering
 *Why the Human Glitch is the Only SEO That Survives the AI Shift*
 
 **By Claire B.**
