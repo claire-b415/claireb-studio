@@ -85,6 +85,17 @@ The same internal logic.</p>
 
 <p>An Instagram account from 2012 with photos of your life, your kids, your art, your experiments, your mess, and your joy isn’t off brand. It’s proof that you were a person long before the current incentive structures showed up.</p>
 
+<figure>
+  <img
+    src="../../assets/claire_b_dorms_2002_1x1.jpeg"
+    alt="Claire B at the dorms of California College of the Arts in Rockridge, Oakland, 2002"
+    loading="lazy"
+  />
+  <figcaption>
+    The author at the dorms of California College of the Arts, Rockridge, Oakland, 2002. Photo by Linda Vu.
+  </figcaption>
+</figure>
+
 <p>You don’t need to delete it.<br/>
 You don’t need to rebrand it.<br/>
 You don’t need to apologize for it.</p>
