@@ -87,7 +87,7 @@ The same internal logic.</p>
 
 <figure>
   <img
-    src="../../assets/claire_b_dorms_2002_1x1.jpeg"
+    src="/claire_b_dorms_2002_1x1.jpeg"
     alt="Claire B at the dorms of California College of the Arts in Rockridge, Oakland, 2002"
     loading="lazy"
   />
