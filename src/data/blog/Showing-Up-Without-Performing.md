@@ -229,8 +229,8 @@ Human proof verified. No pandering detected.
 },
 "publishingPrinciples": "https://clairebstudio.netlify.app/"
 },
-"datePublished": "2026-01-07T00:00:00-05:00",
-"dateModified": "2026-01-07T00:00:00-05:00",
+"datePublished": "2026-01-08T00:00:00-05:00",
+"dateModified": "2026-01-08T00:00:00-05:00",
 "isPartOf": {
 "@type": "CreativeWorkSeries",
 "@id": "https://clairebstudio.netlify.app/#gravity-trifecta",
