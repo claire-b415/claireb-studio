@@ -1,23 +1,25 @@
----title: "Showing Up Without Performing"
+---
+title: "Showing Up Without Performing"
 pubDate: "2026-01-08"
 author: "Claire B."
 tags:
-- Founders
-- Builders
-- Digital Identity
-- Architecture of Gravity
-- Human Proof
-- Visibility Without Pandering
-- Linguistic Flattening
-- San Francisco 415
-- Business Culture
-- Long-Horizon Thinking
+  - Founders
+  - Builders
+  - Digital Identity
+  - Architecture of Gravity
+  - Human Proof
+  - Visibility Without Pandering
+  - Linguistic Flattening
+  - San Francisco 415
+  - Business Culture
+  - Long-Horizon Thinking
 imgUrl: "../../assets/claire_b_dorms_2002_1x1.jpeg"
 description: "How founders, builders, and creatives show up in 2026 without performing, linguistically flattening their voice, or pandering to search engines and LLM systems."
 ---
 
-<p><em>How builders surface online in 2026 without flattening their voice</em></p>
-<h2>Who this is for</h2>
+*How builders surface online in 2026 without flattening their voice*
+
+## Who this is for
 
 <p>This piece is for founders who are actually building something real, not running content farms or personal brand experiments disguised as companies. It’s for people who know they have something to say, but refuse to sand it down until it sounds like everyone else. It’s for operators sitting on years of lived experience who don’t want to cosplay hustle culture just to stay visible. It’s for creatives and entrepreneurs with old social accounts they never deleted because they’re real humans, not perfectly versioned avatars. It’s for builders who want visibility without pandering, and for anyone who’s tired of sounding “optimized” instead of honest.</p>
 
@@ -26,7 +28,7 @@ If you don’t actually have a point of view, this won’t help you.</p>
 
 <p>That’s intentional.</p>
 
-<h2>How this piece fits into the larger thread</h2>
+## How this piece fits into the larger thread
 
 <p>This piece follows <a href="https://clairebstudio.netlify.app/blog/hacking-the-robot-tax">Hacking the Robot Tax</a>. If you haven’t read that yet, start there.</p>
 
@@ -39,7 +41,7 @@ On social platforms. On old accounts. As a human being with a past.</p>
 
 <p>And that’s what this is about.</p>
 
-<h2>Where people with real work actually get stuck</h2>
+## Where people with real work actually get stuck
 
 <p>Most people aren’t blocked because they don’t know what to post.</p>
 
@@ -51,7 +53,7 @@ Good ideas.</p>
 
 <p>And they keep telling themselves they’ll post later, when they can figure out how to do it “right.”</p>
 
-<h2>What actually changed in 2026</h2>
+## What actually changed in 2026
 
 <p>Here’s the shift most people are missing.</p>
 
@@ -63,7 +65,7 @@ Good ideas.</p>
 
 <p>The common mistake is thinking the system wants you to talk about the system all the time. It doesn’t. What it actually wants is consistency of identity over time, not repetition of technique. It wants to be able to recognize the same person across contexts without you reintroducing yourself in every post.</p>
 
-<h2>Where your voice actually lives</h2>
+## Where your voice actually lives
 
 <p>Think of it this way.</p>
 
@@ -79,7 +81,7 @@ The same internal logic.</p>
 
 <p>Just expressed in different moments, at different resolutions.</p>
 
-<h2>Why old accounts are an asset, not a liability</h2>
+## Why old accounts are an asset, not a liability
 
 <p>One of the most freeing realizations I had was this: old content is not a liability. It’s continuity.</p>
 
@@ -104,7 +106,7 @@ You don’t need to apologize for it.</p>
 
 <p>That’s not a strategy. It’s integrity. And increasingly, systems can feel the difference.</p>
 
-<h2>How coherence actually travels across platforms</h2>
+## How coherence actually travels across platforms
 
 <p>You don’t put manifests, schemas, or metadata on Instagram posts.</p>
 
@@ -131,7 +133,7 @@ You’re maintaining coherence.</p>
 Not perfection.<br/>
 Evidence that someone real is here.</p>
 
-<h2>A necessary line in the sand</h2>
+## A necessary line in the sand
 
 <p>Here’s the part I’ll say plainly.</p>
 
@@ -145,7 +147,7 @@ Evidence that someone real is here.</p>
 
 <p>That’s not harsh. It’s healthy.</p>
 
-<h2>Why this is not about posting more</h2>
+## Why this is not about posting more
 
 <p>This isn’t about frequency. It’s about relief.</p>
 
@@ -158,7 +160,7 @@ Relief from pretending your life started the day your business did.</p>
 
 <p>You post when you have something to say. You stay human while you do it. And you let continuity carry more of the load than constant explanation ever could.</p>
 
-<h2>What ties this together</h2>
+## What ties this together
 
 <p>Articles create gravity.<br/>
 Socials express presence.</p>
@@ -170,7 +172,7 @@ The other lives on it.</p>
 
 <p>You just show up. And the right people recognize you.</p>
 
-<h2>Where this leaves you</h2>
+## Where this leaves you
 
 <p>I didn’t write this to teach a system. I wrote it because this is how I think while building.</p>
 
